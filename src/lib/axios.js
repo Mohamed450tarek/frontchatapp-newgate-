@@ -2,7 +2,7 @@ import axios from "axios";
 
  export const axiosInstance = axios.create({
  // baseURL: "https://newgatebackend-chatapp-production.up.railway.app/api",
-  baseURL: "https://newgatebackend-chatapp-production.up.railway.app",
+  baseURL: "https://newgatebackend-chatapp-production.up.railway.app/api",
   withCredentials: true,
 });
 
