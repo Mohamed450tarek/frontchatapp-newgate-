@@ -19,5 +19,13 @@
 - 🚀 Easy Deployment (free-tier friendly with Sevalla)
 
 ---
+tgis app maked using react and  tailwend as frontend 
 
- 
+ -- 
+ how you can run app steps 
+ 1- npm i 
+ 2- npm run dev 
+ --
+ sure from version of react and node as first 
+ ## my website link for visit 
+ https://frontchatapp-newgate-nija.vercel.app/Homepage
