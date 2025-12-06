@@ -1,6 +1,6 @@
 <h1 align="center">✨ Full-Stack Chat App Newgate ✨</h1>
  
-![Demo App](/frontend/public/screenshot-for-readme.png)
+  link website --  frontchatapp-newgate-nija.vercel.app
 
 ## Highlights
 
